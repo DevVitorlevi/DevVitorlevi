@@ -47,6 +47,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/DevVitorlev/DevVitorlevi/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/DevVitorlevi/DevVitorlevi/output/snake.svg" alt="Snake animation" />
 
 ###
