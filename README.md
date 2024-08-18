@@ -25,13 +25,15 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=mysql" height="83" alt="mysql logo"  />
   <img width="10" />
+  <img src="https://skillicons.dev/icons?i=python" height="83" alt="figma logo"  />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=figma" height="83" alt="figma logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=vscode" height="83" alt="vscode logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=git" height="83" alt="git logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=discord" height="83" alt="discord logo"  />
+  
 </div>
 
 ###
