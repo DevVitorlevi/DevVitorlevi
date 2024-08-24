@@ -43,6 +43,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/DevVitorlevi/DevVitorlevi/output/snake.svg" alt="Snake animation" />
+
 
 ###
