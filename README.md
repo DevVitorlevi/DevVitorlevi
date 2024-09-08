@@ -21,7 +21,7 @@
   <img width="16" />
   <img src="https://skillicons.dev/icons?i=css" height="70" alt="css3 logo"  />
   <img width="16" />
-  <img src="https://skillicons.dev/icons?i=react" height="70" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="70" alt="css3 logo"  />
   <img width="16" />
   <img src="https://skillicons.dev/icons?i=mysql" height="70" alt="mysql logo"  />
   <img width="16" />
