@@ -30,6 +30,9 @@
   <img src="https://skillicons.dev/icons?i=figma" height="70" alt="figma logo"  />
   <img width="16" />
   <img src="https://skillicons.dev/icons?i=vscode" height="70" alt="vscode logo"  />
+  <img width="16" />
+ <img src="https://skillicons.dev/icons?i=git" height="70" alt="figma logo"  />
+
 </div>
 
 ###
