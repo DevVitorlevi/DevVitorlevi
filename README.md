@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left">Tecnologias/Feramentas🪛</h2>
+<h2 align="left">Tecnologias/Ferramentas🪛</h2>
 
 ###
 
