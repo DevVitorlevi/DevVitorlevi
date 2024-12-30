@@ -37,11 +37,17 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original.svg" height="60" alt="handlebars logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
-  <img width="15" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=sequelize" height="60" alt="sequelize logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
 </div>
+
+###
 
 ###
