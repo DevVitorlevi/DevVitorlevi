@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- Desenvolvedor Front-End<br>- Tec. Desenvolvimento de Sistemas<br>- Atualmente Estudando Back-End</p>
+<p align="left">- Desenvolvedor Web<br>- Tec. Desenvolvimento de Sistemas<br>- Atualmente Estudando API RESTful</p>
 
 ###
 
