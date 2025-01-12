@@ -39,6 +39,8 @@
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
   <img width="15" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"  />
+  <img width="15" />
   <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=sequelize" height="60" alt="sequelize logo"  />
