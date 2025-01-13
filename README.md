@@ -3,11 +3,6 @@
 ###
 
 
-  <a href="https://open.spotify.com/user/gk4nsxgoi4u8sb6bwytz35fb5">
-    <img margin="10px" display="block" align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=gk4nsxgoi4u8sb6bwytz35fb5&count=2" alt="Spotify recently played"  />
-  </a>
-
-###
 
 <h2 align="left">Sobre Mim! 🙋🏾‍♂️</h2>
 
