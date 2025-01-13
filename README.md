@@ -4,7 +4,7 @@
 
 
   <a href="https://open.spotify.com/user/gk4nsxgoi4u8sb6bwytz35fb5">
-    <img z-index=9999999 display="block" align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=gk4nsxgoi4u8sb6bwytz35fb5&count=2" alt="Spotify recently played"  />
+    <img margin="10px" display="block" align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=gk4nsxgoi4u8sb6bwytz35fb5&count=2" alt="Spotify recently played"  />
   </a>
 
 ###
@@ -27,6 +27,7 @@
 </div>
 
 ###
+<h2 align="left">Techs ⚙️</h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
@@ -48,7 +49,6 @@
 
 ###
 
-<h2 align="left">Techs ⚙️</h2>
 
 ###
 
@@ -70,8 +70,3 @@
   <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo"  />
 </div>
 
-###
-
-<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
