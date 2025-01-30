@@ -24,7 +24,7 @@
 ###
 <h2 align="left">Techs ⚙️</h2>
 
-<div align="rigth">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=css" height="60" alt="css3 logo"  />
@@ -51,7 +51,7 @@
 
 ###
 
-<div align="rigth">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
