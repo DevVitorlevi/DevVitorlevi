@@ -63,8 +63,6 @@
   <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=vercel" height="60" alt="vercel logo"  />
-  <img width="20" />
-  <img src="https://cdn.simpleicons.org/solid/2C4F7C" height="60" alt="solid logo"  />
 </div>
 
 ###
