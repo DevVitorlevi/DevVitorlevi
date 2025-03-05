@@ -32,8 +32,6 @@
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="20" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
