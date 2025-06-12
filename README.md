@@ -12,6 +12,10 @@
 
 ###
 
+<h2 align="left">Social Media 🔗</h2>
+
+###
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <a href="https://www.instagram.com/npm_vt/" target="_blank">
@@ -23,7 +27,7 @@
 
 <br clear="both">
 
-<h2 align="left">Status📊</h2>
+<h2 align="left">Status 📊</h2>
 
 ###
 
@@ -34,7 +38,7 @@
 
 ###
 
-<h2 align="left">Tecnologias</h2>
+<h2 align="left">Tecnologias ⚙️</h2>
 
 ###
 
@@ -61,6 +65,10 @@
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
 </div>
+
+###
+
+<h2 align="left"></h2>
 
 ###
 
