@@ -1,14 +1,12 @@
-<h1 align="center">Hello World, Me Chamo Vitor Levi </></h1>
+<div>
 
-###
-
-<br clear="both">
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=5800F7&background=AAEE6600&width=635&lines=+Hello+World!+Me+Chamo+Vitor+Levi+;Desenvolvedor+Full-Stack)](https://git.io/typing-svg)
+</div>
 <h2 align="left">Sobre Mim 🙋🏾‍♂️</h2>
 
 ###
 
-<p align="left">- Tec.Desenvolvimento de Sistemas<br>- Dev FullStack Web<br>- Desenvolvendo o THINKER</p>
+<p align="left">- Tec.Desenvolvimento de Sistemas<br>- Dev FullStack<br>
 
 ###
 
@@ -70,7 +68,6 @@
 
 ###
 
-<h2 align="left"></h2>
 
 ###
 
