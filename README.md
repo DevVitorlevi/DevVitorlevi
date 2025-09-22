@@ -6,18 +6,12 @@
 
 ###
 
-<p align="left">- Tec.Desenvolvimento de Sistemas<br>- Dev FullStack<br>
+<p align="left">Sou desenvolvedor FullStack com foco em backend, formado em Técnico de Desenvolvimento de Sistemas. Tenho 17 anos e 2 anos de experiência em desenvolvimento de aplicações web, criação e manutenção de APIs RESTfuls e integração com bancos de dados relacionais e não relacionais, utilizando ORMs como Sequelize (para MySQL) e ODMs como Mongoose (para MongoDB), garantindo mapeamento eficiente entre objetos de aplicação e persistência de dados.
 
-###
+Domino tecnologias como JavaScript, TypeScript, ReactJS, NodeJS e TailwindCSS, além de ferramentas de versionamento e pipelines CI/CD (Git, GitHub, Postman). Também atuo com automação de testes E2E utilizando Cypress e Gherkin BDD, garantindo qualidade e confiabilidade das aplicações.
 
-<h2 align="left">Social Media 🔗</h2>
-
-###
-
-
-###
-
-<br clear="both">
+Aplicando boas práticas de desenvolvimento, como Clean Code, arquitetura MVC, e metodologias ágeis como Scrum e Kanban, tenho aprimorado organização, eficiência e qualidade em projetos complexos ao longo da minha trajetória.
+</p>
 
 <h2 align="left">Status 📊</h2>
 
@@ -37,37 +31,35 @@
 
 <br clear="both">
 
-<div align="center">
+<div>
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
-  <img width="20" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=css" height="60" alt="css3 logo"  />
-  <img width="20" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
-  <img width="20" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="20" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
-  <img width="20" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
-  <img width="20" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="styledcomponents logo"  />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=styledcomponents" height="60" alt="styledcomponents logo"  />
-  <img width="20" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
-  <img width="20" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"  />
-  <img width="20" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=sequelize" height="50" alt="githubactions logo"  />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="50" alt="githubactions logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=cypress" height="60" alt="git logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=postman" height="50" alt="githubactions logo"  />
 </div>
 
-###
-
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/gk4nsxgoi4u8sb6bwytz35fb5">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=gk4nsxgoi4u8sb6bwytz35fb5&count=4&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
