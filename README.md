@@ -1,5 +1,19 @@
 <!-- ✨ PERFIL GITHUB: DevVitorLevi -->
-<div align="center">
+<!-- ✨ Header Ondulado -->
+<div style="width: 100%; margin: 0; padding: 0;">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&color=4B0082&animation=fadeIn"
+    alt="Header Ondulado"
+    style="width: 100%; height: auto; display: block;"
+  />
+</div>
+
+<!-- Centralização absoluta com Flexbox -->
+<div style="
+  margin: 0 auto;
+  width: fit-content;
+  display: block;
+">
   <a href="https://git.io/typing-svg">
     <img
       src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=5800F7&background=AAEE6600&width=635&lines=Hello+World!+Me+Chamo+Vitor+Levi;Desenvolvedor+Full-Stack"
@@ -41,7 +55,7 @@
     alt="GitHub Stats"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=DevVitorlevi&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=DevVitorlevi&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"
     height="180"
     alt="Top Languages"
   />
@@ -52,7 +66,7 @@
 <h2 align="left">Tecnologias ⚙️</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,tailwind,styledcomponents,mysql,mongodb,sequelize,git,githubactions,cypress,postman" height="60" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,nextjs,tailwind,styledcomponents,mysql,mongodb,sequelize,git,cypress,postman" height="60" />
 </div>
 
 ---
