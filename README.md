@@ -43,7 +43,7 @@
 
 ---
 
-<h2 align="left">Status 📊</h2>
+<h2 align="left">GitHub Analytics 📊</h2>
 
 <div align="center">
   <img
