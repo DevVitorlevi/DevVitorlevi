@@ -9,22 +9,19 @@
 </div>
 
 <!-- Centralização absoluta com Flexbox -->
-<div style="
-  margin: 0 auto;
-  width: fit-content;
-  display: block;
-">
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=5800F7&background=AAEE6600&width=635&lines=Hello+World!+Me+Chamo+Vitor+Levi;Desenvolvedor+Full-Stack"
-      alt="Typing SVG"
-    />
-  </a>
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=30&pause=1000&color=6A23BD&width=550&lines=Hello+World!!+Me+Chamo+Vitor+Levi+%3C%2F%3E;Desenvolvedor+FullStack)](https://git.io/typing-svg)
 
 ---
 
 <h2 align="left">Sobre Mim 🙋🏾‍♂️</h2>
+
+<img
+  src="./image.jpg"
+  alt="Minha foto"
+  width="280"
+  align="right"
+  style="margin-left: 20px; border-radius: 15px; float: right;"
+/>
 
 <p align="left">
   Sou desenvolvedor FullStack com foco em backend, formado em Técnico de Desenvolvimento de Sistemas.
@@ -74,15 +71,18 @@
 <h2 align="left">Social Media 📬</h2>
 
 <div align="center">
-  <a href="mailto:vitorlevidev@gmail.com" target="_blank">
+  <a href="mailto:levivitor8@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/devvitorlevi" target="_blank">
+  <a href="https://linkedin.com/in/vitor-levi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/DevVitorlevi" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
 
----
+<div style="width: 100%; margin: 0; padding: 0;">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=4B0082&animation=fadeIn"
+    alt="Header Ondulado"
+    style="width: 100%; height: auto; display: block;"
+  />
+</div>
