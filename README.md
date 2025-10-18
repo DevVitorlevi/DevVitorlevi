@@ -18,7 +18,7 @@
 <img
   src="./image.jpg"
   alt="Minha foto"
-  width="280"
+  width="250"
   align="right"
   style="margin-left: 20px; border-radius: 15px; float: right;"
 />
