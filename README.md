@@ -63,7 +63,7 @@
 <h2 align="left">Tecnologias ⚙️</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,express,react,nextjs,tailwind,styledcomponents,mysql,mongodb,sequelize,git,cypress,postman" height="190" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,express,react,nextjs,tailwind,styledcomponents,mysql,mongodb,sequelize,git,cypress,postman,npm,vercel" height="190" />
 </div>
 
 ---
