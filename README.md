@@ -31,8 +31,8 @@
 </p>
 
 <p align="left">
-  Domino tecnologias como <strong>JavaScript</strong>, <strong>TypeScript</strong>, <strong>ReactJS</strong>, <strong>NodeJS</strong> e <strong>TailwindCSS</strong>,
-  além de ferramentas de versionamento e pipelines CI/CD (<strong>Git</strong>, <strong>GitHub</strong>, <strong>Postman</strong>).
+  Domino tecnologias como <strong>TypeScript</strong>, <strong>ReactJS</strong>, <strong>NodeJS</strong> e <strong>TailwindCSS</strong>,
+  além de ferramentas de versionamento e pipelines CI (<strong>Git</strong>, <strong>GitHub</strong>, <strong>Postman</strong>).
   Também atuo com automação de testes E2E utilizando <strong>Cypress</strong> e <strong>Gherkin BDD</strong>, garantindo qualidade e confiabilidade das aplicações.
 </p>
 
