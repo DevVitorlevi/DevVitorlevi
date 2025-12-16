@@ -47,10 +47,11 @@
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=DevVitorlevi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=DevVitorlevi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false"
     height="165"
     alt="GitHub Stats"
   />
+  <img width="15">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs?username=DevVitorlevi&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"
     height="180"
@@ -86,3 +87,4 @@
     style="width: 100%; height: auto; display: block;"
   />
 </div>
+
