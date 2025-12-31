@@ -43,20 +43,11 @@
 
 ---
 
-<h2 align="left">GitHub Analytics 📊</h2>
+<h2>GitHub Analytics 📊</h2>
 
 <div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=DevVitorlevi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false"
-    height="165"
-    alt="GitHub Stats"
-  />
-  <img width="15">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=DevVitorlevi&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"
-    height="180"
-    alt="Top Languages"
-  />
+  <img height=165 align="center" src="https://github-readme-stats-tan-eight-86.vercel.app/api?username=DevVitorlevi&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height=200 align="center" src="https://github-readme-stats-tan-eight-86.vercel.app/api/top-langs/?username=DevVitorlevi&layout=compact&theme=tokyonight&locale=pt-br&card_width=320&hide_border=true" />
 </div>
 
 ---
@@ -64,7 +55,7 @@
 <h2 align="left">Tecnologias ⚙️</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,express,react,nextjs,tailwind,mysql,mongodb,sequelize,prisma,git,cypress,postman" height="190" />
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,express,react,nextjs,tailwind,mysql,postgres,mongodb,sequelize,prisma,cypress,vitest,postman,git" height="190" />
 </div>
 
 ---
