@@ -24,8 +24,8 @@
 />
 
 <p align="left">
-  Sou desenvolvedor FullStack com foco em backend, formado em Técnico de Desenvolvimento de Sistemas.
-  Tenho 17 anos e 2 anos de experiência em desenvolvimento de aplicações web, criação e manutenção de APIs RESTfuls
+  Sou desenvolvedor FullStack e Técnico em Desenvolvimento de Sistemas.
+  Tenho 17 anos e 1 ano de experiência em desenvolvimento de aplicações web, criação e manutenção de APIs RESTfuls
   e integração com bancos de dados relacionais e não relacionais, utilizando ORMs como <strong>Sequelize</strong> (para MySQL)
   e ODMs como <strong>Mongoose</strong> (para MongoDB), garantindo mapeamento eficiente entre objetos de aplicação e persistência de dados.
 </p>
