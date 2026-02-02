@@ -45,9 +45,6 @@ Sou movido por aprendizado contínuo, adapto-me rapidamente a novos contextos e 
     height="165"
     src="https://github-readme-streak-stats-eight.vercel.app/?user=DevVitorlevi&theme=discord_old_blurple&hide_border=true&short_numbers=true"
   />
-  <img
-    width="30"
-  />
   <img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=DevVitorlevi&langs_count=6&layout=compact&theme=react&hide_border=true&bg_color=2C2F33&title_color=7289DA&radius=16&icon_color=F8D866&hide=Typescript%20Notebook,Roff" height="300px"  width="300"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevVitorlevi&radius=6&theme=nightowl&area=true&order=5&hide_border=true&color=7289DA&bg_color=2C2F33&line=7289DA&title_color=7289DA&area_color=7289DA&point=FFFFFF&hide_title=false" height="255" alt="activity-graph graph"  />
 </div>
