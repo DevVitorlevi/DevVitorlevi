@@ -17,14 +17,6 @@
 
 <h2 align="left">Sobre Mim 🙋🏾‍♂️</h2>
 
-<img
-  src="./image.jpg"
-  alt="Foto de Vitor Levi"
-  width="200"
-  align="right"
-  style="margin-left: 20px; border-radius: 16px;"
-/>
-
 <p align="left">
   Sou <strong>Desenvolvedor Full Stack</strong> e <strong>Técnico em Desenvolvimento de Sistemas</strong>,
   com foco em <strong>backend</strong> e arquitetura de aplicações web.
