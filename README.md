@@ -18,27 +18,29 @@
 <h2 align="left">Sobre Mim 🙋🏾‍♂️</h2>
 
 <p align="left">
-  Sou <strong>Desenvolvedor Full Stack</strong> e <strong>Técnico em Desenvolvimento de Sistemas</strong>,
-  com foco em <strong>backend</strong> e arquitetura de aplicações web.
-  Tenho <strong>17 anos</strong> e experiência prática no desenvolvimento de APIs RESTful,
-  sistemas web completos e integrações com bancos de dados relacionais e não relacionais.
+  Sou um Desenvolvedor Full Stack com 1 ano de experiência na criação de aplicações web completas, escaláveis e com garantia de qualidade. Trabalho no desenvolvimento de interfaces modernas e responsivas, na criação de APIs RESTful eficientes e na integração com bases de dados relacionais (PostgreSQL, MySQL) e não relacionais (MongoDB).
 </p>
 
 <p align="left">
-  Atuo principalmente com <strong>TypeScript</strong>, <strong>Node.js</strong> e <strong>React</strong>,
-  aplicando princípios como <strong>Clean Code</strong>, <strong>separação de responsabilidades</strong>
-  e boas práticas de modelagem de domínio.
-  Tenho experiência com ORMs como <strong>Sequelize</strong> e <strong>Prisma</strong>,
-  além de ODMs como <strong>Mongoose</strong>.
+  Minhas Hard Skills:
+• Frontend: React.js, Next.js, TypeScript, JavaScript, TailwindCSS, Styled Components, ShadCN/UI, HTML5, CSS3
+• Backend: Node.js, Express.js, Fastify, API REST, JWT
+• Bases de dados: PostgreSQL, MySQL, MongoDB
+• ORMs e ODMs: Prisma ORM, Sequelize, Mongoose ODM
+• Testes: Cypress, Vitest, Testes E2E, Testes de Unitarios, Gherkin BDD
+• DevOps: Git, GitHub, Git Flow, Docker, Pipeline CI/CD
+• Metodologias: Scrum, Kanban, Clean Code, MVC, TDD, SOLID
 </p>
 
 <p align="left">
-  Trabalho com <strong>testes automatizados</strong> (E2E e unitários) utilizando
-  <strong>Cypress</strong>, <strong>Vitest</strong> e <strong>BDD com Gherkin</strong>,
-  buscando confiabilidade, manutenibilidade e evolução segura do código.
-  Em projetos colaborativos, utilizo <strong>Git</strong>, <strong>GitHub</strong>
-  e metodologias ágeis como <strong>Scrum</strong> e <strong>Kanban</strong>.
+Minhas Soft Skills:
+• Mentalidade de aprendizagem contínua, com elevada adaptabilidade a novos desafios 
+• Abordagem proativa, com foco na resolução eficiente de problemas
+• Comunicação clara e colaboração eficaz em ambientes de equipe
+• Forte atenção aos detalhes, com compromisso consistente com a qualidade
+• Organização, disciplina e boa gestão do tempo no dia a dia
 </p>
+
 
 ---
 
