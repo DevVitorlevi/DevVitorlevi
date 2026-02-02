@@ -18,27 +18,12 @@
 <h2 align="left">Sobre Mim 🙋🏾‍♂️</h2>
 
 <p align="left">
-  Sou um Desenvolvedor Full Stack com 1 ano de experiência na criação de aplicações web completas, escaláveis e com garantia de qualidade. Trabalho no desenvolvimento de interfaces modernas e responsivas, na criação de APIs RESTful eficientes e na integração com bases de dados relacionais (PostgreSQL, MySQL) e não relacionais (MongoDB).
-</p>
 
-<p align="left">
-  Minhas Hard Skills:
-• Frontend: React.js, Next.js, TypeScript, JavaScript, TailwindCSS, Styled Components, ShadCN/UI, HTML5, CSS3
-• Backend: Node.js, Express.js, Fastify, API REST, JWT
-• Bases de dados: PostgreSQL, MySQL, MongoDB
-• ORMs e ODMs: Prisma ORM, Sequelize, Mongoose ODM
-• Testes: Cypress, Vitest, Testes E2E, Testes de Unitarios, Gherkin BDD
-• DevOps: Git, GitHub, Git Flow, Docker, Pipeline CI/CD
-• Metodologias: Scrum, Kanban, Clean Code, MVC, TDD, SOLID
-</p>
+Sou Desenvolvedor Full Stack com experiência no desenvolvimento de aplicações web completas, atuando desde a concepção da ideia até a entrega de soluções funcionais, bem estruturadas e com foco em qualidade.
 
-<p align="left">
-Minhas Soft Skills:
-• Mentalidade de aprendizagem contínua, com elevada adaptabilidade a novos desafios 
-• Abordagem proativa, com foco na resolução eficiente de problemas
-• Comunicação clara e colaboração eficaz em ambientes de equipe
-• Forte atenção aos detalhes, com compromisso consistente com a qualidade
-• Organização, disciplina e boa gestão do tempo no dia a dia
+Ao longo da minha trajetória, venho lidando com desafios reais de produto, organização de código e tomada de decisões técnicas, sempre buscando soluções eficientes, sustentáveis e fáceis de manter. Tenho um perfil analítico, gosto de entender o problema a fundo antes de implementar e valorizo boas práticas de engenharia de software.
+
+Sou movido por aprendizado contínuo, adapto-me rapidamente a novos contextos e tecnologias, e tenho facilidade para colaborar em equipe, comunicar ideias de forma clara e contribuir para um ambiente produtivo. Prezo por organização, disciplina e responsabilidade, mantendo atenção constante aos detalhes e à qualidade do que entrego.
 </p>
 
 
