@@ -52,21 +52,6 @@
 
 ---
 
-<h2 align="left">GitHub Analytics 📊</h2>
-
-<div align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats-tan-eight-86.vercel.app/api?username=DevVitorLevi&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true&count_private=true&hide_border=true"
-  />
-  <img
-    height="170"
-    src="https://github-readme-stats-tan-eight-86.vercel.app/api/top-langs/?username=DevVitorLevi&layout=compact&theme=tokyonight&locale=pt-br&hide_border=true"
-  />
-</div>
-
----
-
 <h2 align="left">Tecnologias ⚙️</h2>
 
 <div align="center">
@@ -76,7 +61,19 @@
   />
 </div>
 
----
+<h2 align="left">GitHub Analytics 📊</h2>
+
+<div align="center">
+  <img
+    height="165"
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=DevVitorlevi&theme=discord_old_blurple&hide_border=true&short_numbers=true"
+  />
+  <img
+    width="130"
+  />
+  <img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=DevVitorlevi&langs_count=6&layout=compact&theme=react&hide_border=true&bg_color=2C2F33&title_color=7289DA&radius=16&icon_color=F8D866&hide=Typescript%20Notebook,Roff" height="300px"  width="300"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevVitorlevi&radius=6&theme=nightowl&area=true&order=5&hide_border=true&color=7289DA&bg_color=2C2F33&line=7289DA&title_color=7289DA&area_color=7289DA&point=FFFFFF&hide_title=false" height="300" alt="activity-graph graph"  />
+</div>
 
 <h2 align="left">Contato & Social 📬</h2>
 
@@ -98,7 +95,6 @@
   </a>
 </div>
 
----
 
 <!-- ✨ Footer Ondulado -->
 <div style="width: 100%; margin: 0; padding: 0;">
