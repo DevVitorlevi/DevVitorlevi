@@ -1,5 +1,3 @@
-<!-- ✨ PERFIL GITHUB: DevVitorLevi -->
-
 <!-- ✨ Header Ondulado -->
 <div style="width: 100%; margin: 0; padding: 0;">
   <img
@@ -22,7 +20,7 @@
 <img
   src="./image.jpg"
   alt="Foto de Vitor Levi"
-  width="240"
+  width="200"
   align="right"
   style="margin-left: 20px; border-radius: 16px;"
 />
