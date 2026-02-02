@@ -3,7 +3,7 @@
 <!-- ✨ Header Ondulado -->
 <div style="width: 100%; margin: 0; padding: 0;">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=110&section=header&color=4B0082&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&height=110&section=header&color=3556ca&animation=fadeIn"
     alt="Header Ondulado"
     style="width: 100%; height: auto; display: block;"
   />
@@ -11,7 +11,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=28&pause=1000&color=6A23BD&center=true&vCenter=true&width=700&lines=Hello+World!;Me+chamo+Vitor+Levi+%3C%2F%3E;Desenvolvedor+Full+Stack)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=28&pause=1000&color=3556ca&center=true&vCenter=true&width=700&lines=Hello+World!+Me+chamo+Vitor+Levi+%3C%2F%3E;Desenvolvedor+Full+Stack)](https://git.io/typing-svg)
 
 </div>
 
@@ -103,7 +103,7 @@
 <!-- ✨ Footer Ondulado -->
 <div style="width: 100%; margin: 0; padding: 0;">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=4B0082&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=3556ca&animation=fadeIn"
     alt="Footer Ondulado"
     style="width: 100%; height: auto; display: block;"
   />
