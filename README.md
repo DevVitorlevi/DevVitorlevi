@@ -26,17 +26,36 @@ Ao longo da minha trajetória, venho lidando com desafios reais de produto, orga
 Sou movido por aprendizado contínuo, adapto-me rapidamente a novos contextos e tecnologias, e tenho facilidade para colaborar em equipe, comunicar ideias de forma clara e contribuir para um ambiente produtivo. Prezo por organização, disciplina e responsabilidade, mantendo atenção constante aos detalhes e à qualidade do que entrego.
 </p>
 
-
 ---
 
-<h2 align="left">Tecnologias ⚙️</h2>
+<h2 align="left">FrontEnd ⚙️</h2>
 
-<div align="center">
+<div align="left">
   <img
-    src="https://skillicons.dev/icons?i=ts,nodejs,express,react,nextjs,tailwind,mysql,postgres,mongodb,sequelize,prisma,cypress,vitest,postman,git"
-    height="180"
+    src="https://skills.syvixor.com/api/icons?i=html,css,js,ts,react,nextjs,styledcomponents,tailwind,shadcnui,reactrouter,axios,cypress"
+    height="auto"
   />
 </div>
+
+<h2 align="left">BackEnd ⚙️</h2>
+
+<div align="left">
+  <img
+    src="https://skills.syvixor.com/api/icons?i=node,express,fastify,mysql,postgresql,mongodb,sequelize,prisma,docker,jwt,zod,vitest"
+    height="auto"
+  />
+</div>
+
+<h2 align="left">Ferramentas ⚙️</h2>
+
+<div align="left">
+  <img
+    src="https://skills.syvixor.com/api/icons?i=vscode,npm,yarn,git,githubactions,dbeaver,xampp,postman,powershell,jira,notion"
+    height="auto"
+  />
+</div>
+
+---
 
 <h2 align="left">GitHub Analytics 📊</h2>
 
