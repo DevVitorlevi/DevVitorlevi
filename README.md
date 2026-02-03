@@ -32,7 +32,7 @@ Sou movido por aprendizado contínuo, adapto-me rapidamente a novos contextos e 
 
 <div align="left">
   <img
-    src="https://skills.syvixor.com/api/icons?i=html,css,js,ts,react,nextjs,styledcomponents,tailwind,shadcnui,reactrouter,axios,cypress"
+    src="https://skills.syvixor.com/api/icons?i=html,css,js,ts,react,nextjs,styledcomponents,tailwind,shadcnui,reactrouter,axios,cypress,vercel"
     height="auto"
   />
 </div>
@@ -41,7 +41,7 @@ Sou movido por aprendizado contínuo, adapto-me rapidamente a novos contextos e 
 
 <div align="left">
   <img
-    src="https://skills.syvixor.com/api/icons?i=node,express,fastify,mysql,postgresql,mongodb,sequelize,prisma,docker,jwt,zod,vitest"
+    src="https://skills.syvixor.com/api/icons?i=node,express,fastify,mysql,postgresql,mongodb,sequelize,prisma,docker,jwt,zod,vitest,railway"
     height="auto"
   />
 </div>
