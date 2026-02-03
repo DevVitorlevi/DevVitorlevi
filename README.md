@@ -60,12 +60,8 @@ Sou movido por aprendizado contínuo, adapto-me rapidamente a novos contextos e 
     />
   </a>
 
-  <a href="mailto:levivitor8@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge"
-      height="40"
-      alt="Gmail"
-    />
+   <a href="mailto:levivitor8@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=levivitor8@gmail.com&logo=gmail&label=Gmail&color=444&logoColor=white&labelColor=D14836&style=for-the-badge" height="30" alt="gmail logo" />
   </a>
 </div>
 
