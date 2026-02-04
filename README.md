@@ -1,12 +1,3 @@
-<!-- ✨ Header Ondulado -->
-<div style="width: 100%; margin: 0; padding: 0;">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=110&section=header&color=3556ca&animation=fadeIn"
-    alt="Header Ondulado"
-    style="width: 100%; height: auto; display: block;"
-  />
-</div>
-
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=28&pause=1000&color=3556ca&center=true&vCenter=true&width=700&lines=Hello+World!+Me+chamo+Vitor+Levi+%3C%2F%3E;Desenvolvedor+Full+Stack)](https://git.io/typing-svg)
@@ -82,14 +73,4 @@ Sou movido por aprendizado contínuo, adapto-me rapidamente a novos contextos e 
    <a href="mailto:levivitor8@gmail.com">
     <img src="https://img.shields.io/static/v1?message=levivitor8@gmail.com&logo=gmail&label=Gmail&color=444&logoColor=white&labelColor=D14836&style=for-the-badge" height="30" alt="gmail logo" />
   </a>
-</div>
-
-
-<!-- ✨ Footer Ondulado -->
-<div style="width: 100%; margin: 0; padding: 0;">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=3556ca&animation=fadeIn"
-    alt="Footer Ondulado"
-    style="width: 100%; height: auto; display: block;"
-  />
 </div>
