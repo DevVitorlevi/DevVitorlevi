@@ -9,12 +9,7 @@
 <h2 align="left">Sobre Mim 🙋🏾‍♂️</h2>
 
 <p align="left">
-
-Sou Desenvolvedor Full Stack com experiência no desenvolvimento de aplicações web completas, atuando desde a concepção da ideia até a entrega de soluções funcionais, bem estruturadas e com foco em qualidade.
-
-Ao longo da minha trajetória, venho lidando com desafios reais de produto, organização de código e tomada de decisões técnicas, sempre buscando soluções eficientes, sustentáveis e fáceis de manter. Tenho um perfil analítico, gosto de entender o problema a fundo antes de implementar e valorizo boas práticas de engenharia de software.
-
-Sou movido por aprendizado contínuo, adapto-me rapidamente a novos contextos e tecnologias, e tenho facilidade para colaborar em equipe, comunicar ideias de forma clara e contribuir para um ambiente produtivo. Prezo por organização, disciplina e responsabilidade, mantendo atenção constante aos detalhes e à qualidade do que entrego.
+Sou Desenvolvedor Full Stack com experiência no desenvolvimento de aplicações web completas, atuando desde a concepção da ideia até a entrega de soluções funcionais, bem estruturadas e com foco em qualidade. Ao longo da minha trajetória, venho lidando com desafios reais de produto, organização de código e tomada de decisões técnicas, sempre buscando soluções eficientes, sustentáveis e fáceis de manter.
 </p>
 
 ---
