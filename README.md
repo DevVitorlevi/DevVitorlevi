@@ -18,7 +18,7 @@ Sou Desenvolvedor Full Stack com experiência no desenvolvimento de aplicações
 
 <div align="left">
   <img
-    src="https://skills.syvixor.com/api/icons?i=html,css,js,ts,react,nextjs,styledcomponents,tailwind,shadcnui,reactrouter,axios,cypress,vercel"
+    src="https://skills.syvixor.com/api/icons?i=html,css,js,ts,react,nextjs,styledcomponents,tailwind,shadcnui,cypress"
     height="auto"
   />
 </div>
@@ -27,7 +27,7 @@ Sou Desenvolvedor Full Stack com experiência no desenvolvimento de aplicações
 
 <div align="left">
   <img
-    src="https://skills.syvixor.com/api/icons?i=node,express,fastify,mysql,postgresql,mongodb,sequelize,prisma,docker,jwt,zod,vitest,railway"
+    src="https://skills.syvixor.com/api/icons?i=node,express,fastify,mysql,postgresql,mongodb,prisma,docker,jwt,vitest"
     height="auto"
   />
 </div>
@@ -36,7 +36,7 @@ Sou Desenvolvedor Full Stack com experiência no desenvolvimento de aplicações
 
 <div align="left">
   <img
-    src="https://skills.syvixor.com/api/icons?i=vscode,npm,yarn,git,githubactions,dbeaver,xampp,postman,powershell,jira,notion"
+    src="https://skills.syvixor.com/api/icons?i=vscode,npm,git,githubactions,dbeaver,xampp,postman,jira,trello"
     height="auto"
   />
 </div>
