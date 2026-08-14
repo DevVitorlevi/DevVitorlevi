@@ -36,7 +36,7 @@ Sou Desenvolvedor Full Stack com experiência no desenvolvimento de aplicações
 
 <div align="left">
   <img
-    src="https://skills.syvixor.com/api/icons?i=vscode,npm,git,githubactions,dbeaver,xampp,postman,jira,trello"
+    src="https://skills.syvixor.com/api/icons?i=vscode,git,githubactions,dbeaver,xampp,postman,jira,trello"
     height="auto"
   />
 </div>
