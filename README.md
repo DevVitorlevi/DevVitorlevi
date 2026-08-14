@@ -27,7 +27,7 @@ Sou Desenvolvedor Full Stack com experiência no desenvolvimento de aplicações
 
 <div align="left">
   <img
-    src="https://skills.syvixor.com/api/icons?i=node,express,fastify,mysql,postgresql,mongodb,prisma,docker,jwt,vitest"
+    src="https://skills.syvixor.com/api/icons?i=node,express,fastify,mysql,postgresql,mongodb,prisma,docker,jwt,vitest,swagger"
     height="auto"
   />
 </div>
