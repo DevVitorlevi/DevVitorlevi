@@ -44,7 +44,6 @@ Sou Desenvolvedor Full Stack com experiência no desenvolvimento de aplicações
 ---
 
 <h2 align="left">GitHub Analytics 📊</h2>
-
 <div align="center">
   <img
     height="165"
