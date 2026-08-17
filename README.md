@@ -49,7 +49,6 @@ Sou Desenvolvedor Full Stack com experiência no desenvolvimento de aplicações
     height="165"
     src="https://github-readme-streak-stats-eight.vercel.app/?user=DevVitorlevi&theme=discord_old_blurple&hide_border=true&short_numbers=true"
   />
-  <img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=DevVitorlevi&langs_count=6&layout=compact&theme=react&hide_border=true&bg_color=2C2F33&title_color=7289DA&radius=16&icon_color=F8D866&hide=Typescript%20Notebook,Roff" height="300px"  width="300"/>
 </div>
 
 <h2 align="left">Contato & Social 📬</h2>
