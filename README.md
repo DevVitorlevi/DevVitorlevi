@@ -46,7 +46,7 @@ Sou Desenvolvedor Full Stack com experiência no desenvolvimento de aplicações
 <h2 align="left">GitHub Analytics 📊</h2>
 <div align="center">
   <img
-    height="165"
+    height="140"
     src="https://github-readme-streak-stats-eight.vercel.app/?user=DevVitorlevi&theme=discord_old_blurple&hide_border=true&short_numbers=true"
   />
 
